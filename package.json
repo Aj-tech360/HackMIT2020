@@ -1,0 +1,29 @@
+{
+  "name": "hackmit",
+  "version": "1.0.0",
+  "description": "Hack MIT 2020 Project",
+  "main": "main.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "discord.js": "^12.3.1",
+    "ejs": "^3.1.5",
+    "es6-promise": "^4.2.8",
+    "express": "^4.17.1",
+    "isomorphic-fetch": "^2.2.1",
+    "unirest": "^0.6.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "babel-loader": "^8.1.0",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.9.0",
+    "eslint-plugin-react": "^7.20.6",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjamin Sites",
+  "license": "MIT"
+}
